@@ -31,7 +31,7 @@ n = int(input("Enter a number here: "))
 for i in range(1,51):
     print(n,"x",i,"=",n*i)
 '''
-#For loop
+#While loop
 '''
 while loop executes till the given condition is true.
 In while loop, the increment is done inside the loop
