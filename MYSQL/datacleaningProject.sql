@@ -9,7 +9,6 @@ select * from layoffs;
  -- 4) Remove any columns
  
  
-
  -- Raw Data Copy to past into Another Table
  create table layoffs_staging
  like layoffs; 
